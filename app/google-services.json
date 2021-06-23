@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "734044735579",
+    "project_id": "otp2306",
+    "storage_bucket": "otp2306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734044735579:android:8e8a6ec37552c118e2d77e",
+        "android_client_info": {
+          "package_name": "com.vanquancustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734044735579-5edhq0r2ndk3uq7qgjh1i52tt3cgml4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoo8Itkvbq6ug6Upxv_7RyYtWIkG1u3kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734044735579-5edhq0r2ndk3uq7qgjh1i52tt3cgml4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734044735579:android:1e8b7ebbe4e1b77fe2d77e",
+        "android_client_info": {
+          "package_name": "com.vanquanshipper.shipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734044735579-5edhq0r2ndk3uq7qgjh1i52tt3cgml4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoo8Itkvbq6ug6Upxv_7RyYtWIkG1u3kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734044735579-5edhq0r2ndk3uq7qgjh1i52tt3cgml4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
